@@ -19,7 +19,7 @@ Get instant sustainability tips for smarter, greener shopping.
 
 1. Clone this repo:
     ```
-    git clone https://github.com/youruser/EcoSnoop.git
+    git clone https://github.com/Gyanankur23/EcoSnoop.git
     cd EcoSnoop
     ```
 2. Install dependencies:
